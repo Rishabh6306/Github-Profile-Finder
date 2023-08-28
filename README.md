@@ -1,6 +1,6 @@
 # GitHub Profile Finder
 
-This project is a GitHub profile finder web application created using HTML, CSS, and JavaScript. It allows users to search for GitHub profiles by entering a username. The application displays various details about the user, including their bio, name, location, portfolio, and repository count. Additionally, a list of repositories belonging to the user is shown in a box below.
+This project is a GitHub profile finder web application created using HTML, CSS, and JavaScript. It allows users to  search for GitHub profiles by entering a username. The application displays various details about the user, including their bio, name, location, portfolio, and repository count. Additionally, a list of repositories belonging to the user is shown in a box below.
 
 ## Live Demo
 
